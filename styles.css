@@ -1,0 +1,11 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:aliceblue;
+}
+html{
+    background-color: rgb(5, 0, 73);
+}
+img{
+    width:auto;
+    height:250px;
+}

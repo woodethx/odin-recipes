@@ -9,3 +9,21 @@ img{
     width:auto;
     height:250px;
 }
+button{
+    background-color: rgb(97, 82, 0);
+}
+.element{
+    margin:auto;
+    display: inline-block;
+    text-align: center;
+    padding:50px 25px;
+}
+.rButton{
+    display: block;
+    margin: 10px auto;
+    font-size: 18px;
+}
+.element img{
+    width:200px;
+    height:auto;
+}
